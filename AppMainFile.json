@@ -1,15 +1,15 @@
 {
   "data" :  {
-      "AD_Priority_Google_Applovin" : "applovin",
+      "AD_Priority_Google_Applovin" : "google",
     
       "EveryTimeAdsFail_URL_OnOff" : "on",
     
       "AdsOnOff" : "on",  
-      "DoubleAds_OnOff" : "off",  
+      "DoubleAds_OnOff" : "on",  
       "InterAd_Interval" : "1000", 
       "RecycleAds_Position" : "5",
     
-      "AppVersion_Update" : "2.3",  
+      "AppVersion_Update" : "1.0",  
     
       "TransferBox_OnOff" : "off",  
       "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
@@ -26,7 +26,7 @@
     
       "BannerAd_Id_Applovin": "72bd40e8dac1f2d1",
       "MrecAd_Id_Applovin": "dadecb605416aa57",
-      "InterAd_Id_Applovin": "d28e6e87JOYANc75da6b5",
+      "InterAd_Id_Applovin": "d28e6e87c75da6b5",
       "NativeAd_Id_Small_Applovin": "a0a9ac1ebcebb4ca",
       "NativeAd_Id_Medium_Applovin": "a20858c3c618e9c0",
       "VideoAd_Id_Applovin": "25987e8ecd1f1446",
